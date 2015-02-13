@@ -1,0 +1,54 @@
+KODACHROME 64 LIGHTROOM PRESET RECIPE
+======================================
+
+Tone Curve
+----------
+highlights   = +1 
+lights       = +7
+darks        = -7
+shadows      = -7
+
+HSL
+---
+* Saturation
+	red     = 0
+	orange  = -16
+	yellow  = -9
+	green   = -44
+	aqua    = -29
+	blue    = -59
+	purple  = 0
+	magenta = -11
+* Luminance
+	red = 0
+	orange  = -11
+	yellow  = -42
+	green   = -11
+	aqua    = +58
+	blue    = -64
+	purple  = +16
+	magenta = -20	
+* Hue
+	red     = +18
+	orange  = -2
+	yellow  = -53
+	green   = -24
+	aqua    = +2
+	blue    = -16
+	purple  = +16
+	magenta = -2
+	
+DETAILS
+-------
+* Sharpening
+	Amount  = 25
+	Radius  = 1.0
+	Detail  = 25 
+	Masking = 0
+	
+* Noise Reduction
+	Luminance = 0
+	Detail    = 50
+	Contrast  = 0
+	Color     = 5
+	Detail    = 50
